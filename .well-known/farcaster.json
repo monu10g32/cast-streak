@@ -6,7 +6,7 @@
   },
   "frame": {
     "version": "1",
-    "name": "Example Frame",
+    "name": "cast streak",
     "iconUrl": "https://cast-streak.vercel.app/icon.png",
     "homeUrl": "https://cast-streak.vercel.app",
     "imageUrl": "https://cast-streak.vercel.app/image.png",
