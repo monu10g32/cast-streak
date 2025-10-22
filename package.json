@@ -1,0 +1,15 @@
+{
+  "name": "cast-streak",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@farcaster/miniapp-sdk": "^1.0.0"
+  }
+}
