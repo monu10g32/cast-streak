@@ -1,4 +1,7 @@
 {
+  "domain": {
+    "name": "cast-streak.vercel.app"
+  },
   "accountAssociation": {
     "header": "eyJmaWQiOjk0MzcwOSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEIzRkE3Mjg1NWQxZkY4QTA4MDI2N0NEYjAwNEY1MDg1ODNEMWQwQ2YifQ",
     "payload": "eyJkb21haW4iOiJjYXN0LXN0cmVhay52ZXJjZWwuYXBwIn0",
@@ -6,7 +9,7 @@
   },
   "frame": {
     "version": "1",
-    "name": "cast streak",
+    "name": "Cast Streak",
     "iconUrl": "https://cast-streak.vercel.app/icon.png",
     "homeUrl": "https://cast-streak.vercel.app",
     "imageUrl": "https://cast-streak.vercel.app/image.png",
