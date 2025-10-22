@@ -1,0 +1,9 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Cast Streak",
+    "homeUrl": "https://your-vercel-url.vercel.app",
+    "iconUrl": "https://your-vercel-url.vercel.app/icon.png",
+    "description": "Apni Farcaster streak dekho aur share karo!"
+  }
+}
